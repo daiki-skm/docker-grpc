@@ -1,4 +1,4 @@
-# grpc
+# RPC life cycle
 
 I have implemented [RPC life cycle](https://grpc.io/docs/what-is-grpc/core-concepts/#rpc-life-cycle) using docker.
 
