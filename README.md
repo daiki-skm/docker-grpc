@@ -4,6 +4,7 @@ I have implemented [RPC life cycle](https://grpc.io/docs/what-is-grpc/core-conce
 
 Please run the following command to work inside a container.
 ```
+cd /infrastructure/docker
 docker-compose up -d
 docker-compose exec go-grpc bash
 ```
